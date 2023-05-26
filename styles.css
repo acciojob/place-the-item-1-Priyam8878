@@ -1,19 +1,9 @@
 
 /* Your CSS Code here. */
 .holder{
-/* 	border:1px solid black;
-	display:flex;
-	flex-wrap:wrap;
-	flex-direction:row;
-	justify-content:center;
-	align-content:space-evenly;
-	height:50px;
-	padding:0px 40px;
-	 top: 0px;
-    left: 0px;
-    right: 0px; */
+
 	display: flex;
-	flex-wrap:wrap-reverse;
+	flex-wrap:wrap;
     justify-content: space-between;
     align-items: center;
    
